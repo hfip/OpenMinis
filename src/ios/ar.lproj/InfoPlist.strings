@@ -1,0 +1,20 @@
+/* Info.plist permission strings — Arabic */
+
+"NSLocationWhenInUseUsageDescription" = "يستخدم Minis موقعك لتسجيل مكان بدء جلسات الوكيل في سجل الجلسات.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "يستخدم Minis الموقع في الخلفية لإبقاء مهام الوكيل تعمل عندما يكون التطبيق في الخلفية. تُستخدم بيانات الموقع فقط لتسجيل سجل اتصال الجلسات.";
+"NSCalendarsUsageDescription" = "يستخدم Minis الوصول إلى التقويم ليتمكّن وكيل الذكاء الاصطناعي من الاستعلام عن جدولك والتحقّق من التوفّر وإنشاء الأحداث نيابةً عنك.";
+"NSCalendarsFullAccessUsageDescription" = "يستخدم Minis الوصول إلى التقويم ليتمكّن وكيل الذكاء الاصطناعي من الاستعلام عن جدولك والتحقّق من التوفّر وإنشاء الأحداث نيابةً عنك.";
+"NSRemindersUsageDescription" = "يستخدم Minis الوصول إلى التذكيرات ليتمكّن الوكيل من الاستعلام عن تذكيراتك وإنشائها نيابةً عنك.";
+"NSRemindersFullAccessUsageDescription" = "يستخدم Minis الوصول إلى التذكيرات ليتمكّن الوكيل من الاستعلام عن تذكيراتك وإنشائها نيابةً عنك.";
+"NSCameraUsageDescription" = "يحتاج Minis إلى الكاميرا لالتقاط صور لمحادثات الذكاء الاصطناعي.";
+"NSPhotoLibraryUsageDescription" = "يحتاج Minis إلى مكتبة الصور لإرفاق صور بمحادثات الذكاء الاصطناعي.";
+"NSPhotoLibraryAddUsageDescription" = "يحتاج Minis إلى إذن لحفظ الفيديوهات والصور في مكتبة الصور.";
+"NSHealthShareUsageDescription" = "يستخدم Minis HealthKit ليتمكّن الوكيل من قراءة بياناتك الصحية مثل الخطوات ونبض القلب والنوم والتمارين نيابةً عنك.";
+"NSHealthUpdateUsageDescription" = "يستخدم Minis صلاحية الكتابة في HealthKit ليسجّل الوكيل بيانات صحية مثل الخطوات والوزن وشرب الماء نيابةً عنك.";
+"NSContactsUsageDescription" = "يستخدم Minis جهات الاتصال ليتمكّن الوكيل من البحث في جهات اتصالك وعرضها وإدارتها نيابةً عنك.";
+"NSAppleMusicUsageDescription" = "يستخدم Minis مكتبة الوسائط ليتمكّن الوكيل من البحث في مكتبتك الموسيقية والتحكّم في التشغيل نيابةً عنك.";
+"NSMicrophoneUsageDescription" = "يحتاج Minis إلى الميكروفون لتحويل الكلام إلى نص في المحادثة.";
+"NSSpeechRecognitionUsageDescription" = "يستخدم Minis التعرّف على الكلام لتحويل صوتك إلى رسائل نصية.";
+"NSHomeKitUsageDescription" = "يستخدم Minis HomeKit ليتمكّن الوكيل من الاستعلام عن ملحقات منزلك الذكي والتحكّم فيها نيابةً عنك.";
+"NSAlarmKitUsageDescription" = "يستخدم Minis AlarmKit ليتمكّن الوكيل من ضبط المنبّهات والمؤقّتات نيابةً عنك.";
+"NSLocalNetworkUsageDescription" = "تحتاج الآلة الافتراضية إلى الوصول إلى الشبكة لتشغيل شبكة SLIRP";

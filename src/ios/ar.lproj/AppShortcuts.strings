@@ -1,0 +1,20 @@
+/* Siri invocation phrases for MinisShortcutsProvider (AppShortcuts) — Arabic.
+   Keys must match the code phrases exactly, with `\(.applicationName)`
+   spelled `${applicationName}`. */
+
+"Ask ${applicationName}" = "اسأل ${applicationName}";
+"Ask ${applicationName} a question" = "اطرح سؤالاً على ${applicationName}";
+"Talk to ${applicationName}" = "تحدّث إلى ${applicationName}";
+"New ${applicationName} chat" = "محادثة جديدة في ${applicationName}";
+"Run a ${applicationName} quick task" = "نفّذ مهمة سريعة في ${applicationName}";
+"Use ${applicationName} quick task" = "استخدم المهمة السريعة في ${applicationName}";
+"Send a prompt to ${applicationName}" = "أرسل أمراً إلى ${applicationName}";
+"Ask ${applicationName} something" = "اسأل ${applicationName} عن شيء";
+"Start a ${applicationName} task" = "ابدأ مهمة في ${applicationName}";
+"Get ${applicationName} session status" = "اعرف حالة جلسة ${applicationName}";
+"Check ${applicationName} task" = "تحقّق من مهمة ${applicationName}";
+"List ${applicationName} sessions" = "اعرض جلسات ${applicationName}";
+"Show ${applicationName} chats" = "اعرض محادثات ${applicationName}";
+"Follow up a ${applicationName} session" = "تابع جلسة ${applicationName}";
+"Continue a ${applicationName} session" = "أكمل جلسة ${applicationName}";
+"Open a ${applicationName} session" = "افتح جلسة ${applicationName}";

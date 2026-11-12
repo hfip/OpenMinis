@@ -935,6 +935,7 @@
 		E5AS00011 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
 		E5AS00012 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/AppShortcuts.strings"; sourceTree = "<group>"; };
 		E5AS00013 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/AppShortcuts.strings"; sourceTree = "<group>"; };
+		E5AS00014 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
 		E5AT00011 /* AudioTogglePlaybackIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTogglePlaybackIntent.swift; sourceTree = "<group>"; };
 		E5BADGE011 /* SessionBadgeStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionBadgeStore.swift; sourceTree = "<group>"; };
 		E5BRM0011 /* BrowserResourceMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowserResourceMonitor.swift; sourceTree = "<group>"; };
@@ -1101,6 +1102,7 @@
 		E5IP00026 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E5IP00027 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		E5IP00028 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E5IP00029 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E5ITL0011 /* IdleTimerLease.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdleTimerLease.swift; sourceTree = "<group>"; };
 		E5J000011 /* LoggingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggingManager.swift; sourceTree = "<group>"; };
 		E5J000012 /* LogManagementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogManagementView.swift; sourceTree = "<group>"; };
@@ -2895,6 +2897,7 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				ar,
 				en,
 				Base,
 				"zh-Hans",
@@ -3702,6 +3705,7 @@
 				E5AS00011 /* en */,
 				E5AS00012 /* zh-Hans */,
 				E5AS00013 /* zh-Hant */,
+				E5AS00014 /* ar */,
 			);
 			name = AppShortcuts.strings;
 			sourceTree = "<group>";
@@ -3727,6 +3731,7 @@
 				E5IP00026 /* ro */,
 				E5IP00027 /* pt-BR */,
 				E5IP00028 /* hr */,
+				E5IP00029 /* ar */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";

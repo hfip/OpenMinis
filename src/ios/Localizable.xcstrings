@@ -6903,6 +6903,12 @@
     "Account" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحساب"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7260,6 +7266,12 @@
     "Add a storage destination to continue." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أضف وجهة تخزين للمتابعة."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8340,6 +8352,12 @@
     "Agent" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وكيل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8375,6 +8393,12 @@
     "Allow" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السماح"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10539,6 +10563,12 @@
     "Available" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متاح"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10813,6 +10843,12 @@
     "Balance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرصيد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12206,6 +12242,12 @@
     "Chats includes every file in each conversation, not just the messages. File contents are not being backed up — the backup lists which files existed, but restoring won't bring them back." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشمل «المحادثات» كل ملف في كل محادثة، وليس الرسائل فقط. لا تُنسخ محتويات الملفات احتياطياً — تسرد النسخة أسماء الملفات التي كانت موجودة، لكن الاستعادة لن تعيدها."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14694,6 +14736,12 @@
     "Continue Migration" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متابعة الترحيل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18612,6 +18660,12 @@
     "Deselect" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء التحديد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18924,6 +18978,12 @@
     "Disable" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعطيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19356,6 +19416,12 @@
     "Don't back up files" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عدم نسخ الملفات احتياطياً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19469,6 +19535,12 @@
     "Download" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تنزيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25649,6 +25721,12 @@
     "Key" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المفتاح"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29496,6 +29574,12 @@
     "No destinations yet — add one to back up." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا توجد وجهات بعد — أضف واحدة للنسخ الاحتياطي."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30374,6 +30458,12 @@
     "Not listed by provider" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير مدرج من المزوّد"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32811,6 +32901,12 @@
     "Paused" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موقوف مؤقتاً"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32857,6 +32953,12 @@
     "Paused — no progress for 30 minutes. Minis continues automatically when you come back to the app." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متوقف مؤقتاً — لا تقدّم منذ 30 دقيقة. يستأنف Minis تلقائياً عند عودتك إلى التطبيق."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33654,6 +33756,12 @@
     "Previous" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السابق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40516,6 +40624,12 @@
     "Server" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخادم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41106,6 +41220,12 @@
     "Shell" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصدفة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -47852,6 +47972,12 @@
     "This backup contains your API keys, OAuth tokens and environment variable values, and it is NOT encrypted — anyone with the file can read them. Turn on encryption to protect it." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحتوي هذه النسخة الاحتياطية على مفاتيح API ورموز OAuth وقيم متغيّرات البيئة، وهي غير مشفّرة — يمكن لأي شخص يملك الملف قراءتها. فعّل التشفير لحمايتها."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49790,6 +49916,12 @@
     "Tokens" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرموز"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49918,6 +50050,12 @@
     "Tool" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأداة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -58712,6 +58850,12 @@
     },
     "· Migration backlog" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "· متأخرات الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -58824,6 +58968,12 @@
     },
     "· New writes" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "· كتابات جديدة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73786,6 +73936,12 @@
     },
     "About" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حول"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -74684,6 +74840,12 @@
     },
     "Active" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نشط"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -74908,6 +75070,12 @@
     },
     "Add" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -75246,6 +75414,12 @@
     "Add a folder to also copy each backup there — including a server connected in the Files app (SMB, WebDAV) or a cloud provider." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أضف مجلداً لنسخ كل نسخة احتياطية إليه أيضاً — بما في ذلك خادم متصل من تطبيق «الملفات» (SMB أو WebDAV) أو مزوّد سحابي."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -75920,6 +76094,12 @@
     "Add Backup Destination…" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة وجهة نسخ احتياطي…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -76032,6 +76212,12 @@
     },
     "Add Custom Model" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة نموذج مخصّص"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77043,6 +77229,12 @@
     },
     "Add Provider" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة مزوّد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78394,6 +78586,12 @@
     },
     "Advanced" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متقدّم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79294,6 +79492,12 @@
     },
     "AI Data Sharing Notice" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إشعار مشاركة بيانات الذكاء الاصطناعي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79743,6 +79947,12 @@
     },
     "Alarms" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المنبّهات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80526,6 +80736,12 @@
     },
     "All Minis data has been removed from iCloud. This device is now re-uploading its local content to a fresh iCloud zone." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أُزيلت كل بيانات Minis من iCloud. يعيد هذا الجهاز الآن رفع محتواه المحلي إلى منطقة iCloud جديدة."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81532,6 +81748,12 @@
     },
     "Already-uploaded records stay on iCloud. Pending history backfill stops; you can request again later." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تبقى السجلات المرفوعة سابقاً على iCloud. يتوقف استكمال السجل المعلّق، ويمكنك الطلب مجدداً لاحقاً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83330,6 +83552,12 @@
     },
     "API Format" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تنسيق API"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83442,6 +83670,12 @@
     },
     "API Key" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مفتاح API"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -84335,6 +84569,12 @@
     },
     "Appearance" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المظهر"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -84672,6 +84912,12 @@
     },
     "Apply" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تطبيق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -84784,6 +85030,12 @@
     },
     "Are you absolutely sure?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل أنت متأكد تماماً؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86347,6 +86599,12 @@
     },
     "Audio input" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال صوتي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86459,6 +86717,12 @@
     },
     "Audio output" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إخراج صوتي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86684,6 +86948,12 @@
     },
     "Authenticated" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مصادَق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86909,6 +87179,12 @@
     },
     "Authentication" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المصادقة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87888,6 +88164,12 @@
     },
     "Authorized" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مصرّح"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -88000,6 +88282,12 @@
     },
     "Auto" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تلقائي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -88112,6 +88400,12 @@
     },
     "Auto Append \"/v1\"" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلحاق ‎/v1 تلقائياً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89463,6 +89757,12 @@
     },
     "Back" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رجوع"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -90469,6 +90769,12 @@
     },
     "Backup" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نسخة احتياطية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -90808,6 +91114,12 @@
     "Backup Destinations" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وجهات النسخ الاحتياطي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91147,6 +91459,12 @@
     "Backup History" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجل النسخ الاحتياطي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91259,6 +91577,12 @@
     },
     "Backup Ready" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النسخة الاحتياطية جاهزة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91930,6 +92254,12 @@
     },
     "Bearer token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رمز Bearer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92042,6 +92372,12 @@
     },
     "Bearer Token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رمز Bearer"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95638,6 +95974,12 @@
     "Cancel" : {
       "comment" : "Cancel",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95750,6 +96092,12 @@
     },
     "Cancel Migration" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95862,6 +96210,12 @@
     },
     "Cancel Migration?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء الترحيل؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97443,6 +97797,12 @@
     },
     "Change Token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تغيير الرمز"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -98006,6 +98366,12 @@
     },
     "Chat Sessions" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جلسات المحادثة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -98338,6 +98704,12 @@
     },
     "Chats includes every file in each conversation, not just the messages." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشمل «المحادثات» كل ملف في كل محادثة، وليس الرسائل فقط."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -99227,6 +99599,12 @@
     "Choose at least one thing to include." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر شيئاً واحداً على الأقل لتضمينه."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -100122,6 +100500,12 @@
     },
     "Choose Provider" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختيار المزوّد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -100677,6 +101061,12 @@
     },
     "Choose which data this device pushes to iCloud. API keys and secrets are synced securely via iCloud Keychain." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر البيانات التي يرفعها هذا الجهاز إلى iCloud. تُزامَن مفاتيح API والأسرار بأمان عبر سلسلة مفاتيح iCloud."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -101129,6 +101519,12 @@
     "Clear" : {
       "comment" : "Downloads panel action",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مسح"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103582,6 +103978,12 @@
     "Close" : {
       "comment" : "Close button",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إغلاق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -106284,6 +106686,12 @@
     },
     "Configured" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مُهيّأ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -106732,6 +107140,12 @@
     },
     "Confirm passphrase" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تأكيد عبارة المرور"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -106839,6 +107253,12 @@
     "Confirm the passphrase to continue." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أكّد عبارة المرور للمتابعة."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -106952,6 +107372,12 @@
     "Connect" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتصال"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -108750,6 +109176,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متابعة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -109874,6 +110306,12 @@
     },
     "Copy" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نسخ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -110211,6 +110649,12 @@
     },
     "Copy API Key" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نسخ مفتاح API"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -111791,6 +112235,12 @@
     },
     "Copy to My Device" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نسخ إلى جهازي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115142,6 +115592,12 @@
     },
     "Credential" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بيانات الاعتماد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115706,6 +116162,12 @@
     },
     "Custom" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مخصّص"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115818,6 +116280,12 @@
     },
     "Custom API Base" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان API أساسي مخصّص"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115930,6 +116398,12 @@
     },
     "Custom API Base (Optional)" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان API أساسي مخصّص (اختياري)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -116719,6 +117193,12 @@
     },
     "Danger Zone" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منطقة الخطر"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -116831,6 +117311,12 @@
     },
     "Dark" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "داكن"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -117619,6 +118105,12 @@
     },
     "Default" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "افتراضي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -118630,6 +119122,12 @@
     },
     "Delete" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -119415,6 +119913,12 @@
     },
     "Delete Failed" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشل الحذف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -119864,6 +120368,12 @@
     },
     "Delete iCloud Data" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف بيانات iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -119976,6 +120486,12 @@
     },
     "Delete iCloud Data?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف بيانات iCloud؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -120201,6 +120717,12 @@
     },
     "Delete Provider" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف المزوّد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -120876,6 +121398,12 @@
     },
     "Delete V1 Zone" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف منطقة V1"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -121324,6 +121852,12 @@
     },
     "Deleting v1 zone…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ حذف منطقة v1…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -121775,6 +122309,12 @@
     },
     "Depending on which provider you configure, your data will be sent directly to one or more of the following third-party services:" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بحسب المزوّد الذي تهيّئه، ستُرسل بياناتك مباشرةً إلى خدمة أو أكثر من خدمات الطرف الثالث التالية:"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -123125,6 +123665,12 @@
     "Device Name" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم الجهاز"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -123575,6 +124121,12 @@
     },
     "Disabled" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معطّل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -123800,6 +124352,12 @@
     },
     "Display name" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم المعروض"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -123912,6 +124470,12 @@
     },
     "Display Name" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم المعروض"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -124024,6 +124588,12 @@
     },
     "Display name (optional)" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم المعروض (اختياري)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -124698,6 +125268,12 @@
     "Done" : {
       "comment" : "Finish transcript editing",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125922,6 +126498,12 @@
     },
     "Duplicate" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تكرار"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -126373,6 +126955,12 @@
     "Each new backup is also copied to the selected folders — including servers connected in the Files app (SMB, WebDAV) and cloud providers. A folder that is offline is reported and skipped; the local copy is always kept." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُنسخ كل نسخة احتياطية جديدة أيضاً إلى المجلدات المحددة — بما في ذلك الخوادم المتصلة من تطبيق «الملفات» (SMB أو WebDAV) والمزوّدون السحابيون. يُبلَّغ عن المجلد غير المتصل ويُتخطّى، وتبقى النسخة المحلية دائماً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -126598,6 +127186,12 @@
     },
     "Each provider has its own privacy policy and terms of service that govern how they handle your data." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لكل مزوّد سياسة خصوصية وشروط خدمة خاصة تحكم طريقة تعامله مع بياناتك."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -126823,6 +127417,12 @@
     },
     "Edit" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحرير"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -128288,6 +128888,12 @@
     },
     "Eligible records" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السجلات المؤهّلة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -128738,6 +129344,12 @@
     "Enable" : {
       "comment" : "Enable correction data collection",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129524,6 +130136,12 @@
     },
     "Enable for models that generate images (e.g. gpt-image-1, dall-e-3, flux) or audio (e.g. TTS models). Text output is always enabled." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فعّله للنماذج التي تنشئ صوراً (مثل gpt-image-1 أو dall-e-3 أو flux) أو صوتاً (مثل نماذج TTS). الإخراج النصي مفعّل دائماً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129636,6 +130254,12 @@
     },
     "Enable iCloud Sync" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفعيل مزامنة iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130198,6 +130822,12 @@
     },
     "Enabled" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مفعّل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130423,6 +131053,12 @@
     "Encrypt Backup" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشفير النسخة الاحتياطية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130641,6 +131277,12 @@
     },
     "Encryption" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التشفير"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130860,6 +131502,12 @@
     },
     "Engine" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المحرّك"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -132664,6 +133312,12 @@
     },
     "Environments" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البيئات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -132776,6 +133430,12 @@
     },
     "Error" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خطأ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -133452,6 +134112,12 @@
     },
     "Every zone Minis has created in your iCloud private database. **V2** holds the current sync engine's data; **V1** holds legacy per-device backups from older builds. Deleting a zone is permanent and removes everything inside (records + assets). Use this to reclaim space after migration completes." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كل منطقة أنشأها Minis في قاعدة بيانات iCloud الخاصة بك. تحتفظ **V2** ببيانات محرّك المزامنة الحالي، وتحتفظ **V1** بالنسخ الاحتياطية القديمة لكل جهاز من إصدارات أقدم. حذف المنطقة نهائي ويزيل كل ما فيها (السجلات والأصول). استخدم هذا لاستعادة المساحة بعد اكتمال الترحيل."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -134678,6 +135344,12 @@
     },
     "Export" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تصدير"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -136939,6 +137611,12 @@
     },
     "Failed" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -137164,6 +137842,12 @@
     },
     "Failed to export provider configuration." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعذّر تصدير إعداد المزوّد."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -137719,6 +138403,12 @@
     },
     "Feedback" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الملاحظات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -138506,6 +139196,12 @@
     },
     "File" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ملف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -138956,6 +139652,12 @@
     },
     "Files" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الملفات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139856,6 +140558,12 @@
     "Folder" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مجلد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141093,6 +141801,12 @@
     },
     "For third-party Coding Plans (e.g. MiniMax, Kimi) or compatible proxy endpoints, enter the API base URL and bearer token manually." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لخطط البرمجة من طرف ثالث (مثل MiniMax أو Kimi) أو نقاط وكيل متوافقة، أدخل عنوان API الأساسي ورمز Bearer يدوياً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141205,6 +141919,12 @@
     },
     "Force Delete V1 Zone of This Device" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف منطقة V1 لهذا الجهاز قسرياً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141317,6 +142037,12 @@
     },
     "Force Delete V1 Zone?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف منطقة V1 قسرياً؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141655,6 +142381,12 @@
     },
     "Force Full Sync" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فرض مزامنة كاملة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141767,6 +142499,12 @@
     },
     "Force Full Sync?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فرض مزامنة كاملة؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142553,6 +143291,12 @@
     },
     "Fork" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفريع"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142665,6 +143409,12 @@
     },
     "Fork Session" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفريع الجلسة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -146485,6 +147235,12 @@
     "Hidden" : {
       "comment" : "Voice shadow disabled badge",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مخفي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -146597,6 +147353,12 @@
     },
     "Hidden models won't appear in the model picker." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لن تظهر النماذج المخفية في منتقي النماذج."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147273,6 +148035,12 @@
     "Historical Data" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البيانات السابقة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147605,6 +148373,12 @@
     },
     "Home" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرئيسية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -148166,6 +148940,12 @@
     },
     "However, when you add a third-party AI provider and use it for conversations, the following data may be sent directly from your device to that provider's servers:" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ومع ذلك، عند إضافة مزوّد ذكاء اصطناعي من طرف ثالث واستخدامه في المحادثات، قد تُرسل البيانات التالية مباشرةً من جهازك إلى خوادم ذلك المزوّد:"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -148387,6 +149167,12 @@
     },
     "I Understand & Agree" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أفهم وأوافق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -148725,6 +149511,12 @@
     },
     "iCloud Data Deleted" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حُذفت بيانات iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149063,6 +149855,12 @@
     },
     "iCloud Sync" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مزامنة iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149175,6 +149973,12 @@
     },
     "iCloud Sync Logs" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجلات مزامنة iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149287,6 +150091,12 @@
     },
     "iCloud Sync upgraded to v2" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تمت ترقية مزامنة iCloud إلى v2"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149399,6 +150209,12 @@
     },
     "iCloud Zones" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مناطق iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149511,6 +150327,12 @@
     },
     "Identity" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الهوية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -150967,6 +151789,12 @@
     },
     "Image input" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال صور"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151079,6 +151907,12 @@
     },
     "Image output" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إخراج صور"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151304,6 +152138,12 @@
     },
     "Images Generations" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "توليد الصور"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151865,6 +152705,12 @@
     },
     "Import a provider configuration that was exported from another device." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استورد إعداد مزوّد صُدّر من جهاز آخر."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -153441,6 +154287,12 @@
     },
     "Include" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تضمين"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -153996,6 +154848,12 @@
     },
     "Input Modality" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمط الإدخال"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -154445,6 +155303,12 @@
     },
     "Installed" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مثبّت"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -154670,6 +155534,12 @@
     },
     "Instance not found" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يُعثر على النسخة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -156578,6 +157448,12 @@
     },
     "Keep Current Progress" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاحتفاظ بالتقدّم الحالي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -156797,6 +157673,12 @@
     },
     "Keep Migrating" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متابعة الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -157578,6 +158460,12 @@
     },
     "Label" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التسمية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -157690,6 +158578,12 @@
     },
     "Language" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اللغة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -157802,6 +158696,12 @@
     },
     "Last attempt failed" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشلت المحاولة الأخيرة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -158027,6 +158927,12 @@
     },
     "Last error" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "آخر خطأ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -158813,6 +159719,12 @@
     },
     "Last synced" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "آخر مزامنة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -159820,6 +160732,12 @@
     },
     "Leave display name empty to use the model ID." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اترك الاسم المعروض فارغاً لاستخدام معرّف النموذج."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -160044,6 +160962,12 @@
     },
     "Leave empty to use the default Google endpoint. Enter the full base URL including version path." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتركه فارغاً لاستخدام نقطة نهاية Google الافتراضية. أدخل عنوان URL الأساسي كاملاً مع مسار الإصدار."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -160832,6 +161756,12 @@
     },
     "Light" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فاتح"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -162960,6 +163890,12 @@
     },
     "Loading zones…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ تحميل المناطق…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -163184,6 +164120,12 @@
     },
     "Loading…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ التحميل…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -163296,6 +164238,12 @@
     },
     "Local chats and files created before this build are not pushed to iCloud automatically. Tap above to backfill them — this only needs to run once per device. Already-pushed records are skipped, so it's safe to re-run." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا تُرفع المحادثات والملفات المحلية التي أُنشئت قبل هذا الإصدار إلى iCloud تلقائياً. اضغط أعلاه لاستكمالها — يلزم ذلك مرة واحدة لكل جهاز. تُتخطّى السجلات المرفوعة سابقاً، لذا إعادة التشغيل آمنة."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -163521,6 +164469,12 @@
     },
     "Local Sessions" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الجلسات المحلية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -164981,6 +165935,12 @@
     },
     "Logs" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السجلات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -165656,6 +166616,12 @@
     "Manage ASR/TTS models and Voice Services visibility." : {
       "comment" : "Voice service section footer",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدارة نماذج ASR/TTS وظهور خدمات الصوت."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -165880,6 +166846,12 @@
     },
     "Manual Bearer Token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رمز Bearer يدوي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -165992,6 +166964,12 @@
     },
     "Manual Token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رمز يدوي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -167004,6 +167982,12 @@
     },
     "Max Per-File Size" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أقصى حجم للملف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -168560,6 +169544,12 @@
     },
     "Message" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رسالة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169464,6 +170454,12 @@
     },
     "Migrate History to iCloud" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ترحيل السجل إلى iCloud"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169689,6 +170685,12 @@
     },
     "Migration" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169801,6 +170803,12 @@
     },
     "Migration canceled. Tap to resume backfilling local history." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أُلغي الترحيل. اضغط لاستكمال تعبئة السجل المحلي."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -170926,6 +171934,12 @@
     },
     "Minis does not operate any server and does not collect, store, or process any of your personal data. All data stays on your device." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا يشغّل Minis أي خادم ولا يجمع بياناتك الشخصية أو يخزّنها أو يعالجها. تبقى كل البيانات على جهازك."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173178,6 +174192,12 @@
     "Model" : {
       "comment" : "VoiceOver label for the model picker button",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النموذج"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173290,6 +174310,12 @@
     },
     "Model Details" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل النموذج"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173514,6 +174540,12 @@
     },
     "Model ID" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معرّف النموذج"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173738,6 +174770,12 @@
     },
     "Model ID (e.g. claude-3-opus-latest)" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معرّف النموذج (مثل claude-3-opus-latest)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -174413,6 +175451,12 @@
     },
     "Models" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النماذج"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -174863,6 +175907,12 @@
     },
     "More" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المزيد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176211,6 +177261,12 @@
     },
     "Move" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نقل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177334,6 +178390,12 @@
     },
     "Name" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179586,6 +180648,12 @@
     },
     "Next" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التالي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -183633,6 +184701,12 @@
     },
     "No memories synced from this device." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم تُزامَن أي ذكريات من هذا الجهاز."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -184308,6 +185382,12 @@
     },
     "No models" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا توجد نماذج"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -184868,6 +185948,12 @@
     },
     "No other devices found yet. Devices appear here after they enable iCloud Sync." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يُعثر على أجهزة أخرى بعد. تظهر الأجهزة هنا بعد تفعيل مزامنة iCloud."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185542,6 +186628,12 @@
     },
     "No sessions synced from this device yet." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم تُزامَن أي جلسات من هذا الجهاز بعد."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185991,6 +187083,12 @@
     },
     "No skills synced from this device." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم تُزامَن أي مهارات من هذا الجهاز."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -186216,6 +187314,12 @@
     },
     "No sync events yet." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا توجد أحداث مزامنة بعد."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -187005,6 +188109,12 @@
     },
     "No zones found." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لم يُعثر على مناطق."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -187118,6 +188228,12 @@
     "None" : {
       "comment" : "No group selected",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا شيء"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -188577,6 +189693,12 @@
     },
     "Not Sync" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير مزامَن"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -189244,6 +190366,12 @@
     },
     "Off" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متوقف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -189695,6 +190823,12 @@
     },
     "OK" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حسناً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -189920,6 +191054,12 @@
     },
     "On" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مفعّل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -191718,6 +192858,12 @@
     },
     "OpenAI and Anthropic also work with compatible third-party endpoints — set a custom API Base URL after choosing the matching protocol." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يعمل OpenAI وAnthropic أيضاً مع نقاط نهاية متوافقة من طرف ثالث — عيّن عنوان API أساسي مخصّص بعد اختيار البروتوكول المطابق."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -192393,6 +193539,12 @@
     },
     "Or Configure Manually" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أو الهيّئ يدوياً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -192505,6 +193657,12 @@
     },
     "Or Import Provider from File" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أو استورد المزوّد من ملف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -193181,6 +194339,12 @@
     },
     "Output Modality" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نمط الإخراج"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -194755,6 +195919,12 @@
     },
     "Passphrase" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبارة المرور"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -194862,6 +196032,12 @@
     "Passphrases don't match." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبارتا المرور غير متطابقتين."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -195193,6 +196369,12 @@
     },
     "Paste" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لصق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -195982,6 +197164,12 @@
     },
     "Paste the bearer token. Whitespace and newlines will be stripped automatically." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصق رمز Bearer. ستُزال المسافات والأسطر الجديدة تلقائياً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -196094,6 +197282,12 @@
     },
     "Path" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المسار"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -196206,6 +197400,12 @@
     },
     "Pause iCloud Sync" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف مزامنة iCloud مؤقتاً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -196537,6 +197737,12 @@
     },
     "PDF input" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال PDF"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -196762,6 +197968,12 @@
     },
     "Pending changes are preserved locally and pushed once the pause ends." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُحفظ التغييرات المعلّقة محلياً وتُرفع بعد انتهاء الإيقاف."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -197212,6 +198424,12 @@
     },
     "Permanently Delete" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف نهائي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -197436,6 +198654,12 @@
     },
     "Permanently erase all Minis data from iCloud. Local data on this device is not affected." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "امسح كل بيانات Minis من iCloud نهائياً. لا تتأثر البيانات المحلية على هذا الجهاز."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -199336,6 +200560,12 @@
     },
     "Play" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشغيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -199673,6 +200903,12 @@
     },
     "Please review how your data is handled before adding an AI provider." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يرجى مراجعة كيفية التعامل مع بياناتك قبل إضافة مزوّد ذكاء اصطناعي."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201251,6 +202487,12 @@
     },
     "Privacy" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخصوصية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201924,6 +203166,12 @@
     },
     "Provider" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المزوّد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -202374,6 +203622,12 @@
     },
     "Provider label" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسمية المزوّد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -202599,6 +203853,12 @@
     },
     "Providers" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المزوّدون"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -205277,6 +206537,12 @@
     },
     "Read our full Privacy Policy" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اقرأ سياسة الخصوصية الكاملة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207188,6 +208454,12 @@
     },
     "Reclaim v1 space" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استعادة مساحة v1"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207975,6 +209247,12 @@
     "Records from the past month. Older ones are removed automatically." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجلات الشهر الماضي. تُزال الأقدم تلقائياً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -208307,6 +209585,12 @@
     },
     "Refresh" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديث"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -209538,6 +210822,12 @@
     },
     "Remove" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إزالة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211114,6 +212404,12 @@
     },
     "Rename" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة تسمية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -212692,6 +213988,12 @@
     },
     "Request Migration" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طلب الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213593,6 +214895,12 @@
     },
     "Reset" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة تعيين"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214041,6 +215349,12 @@
     },
     "Reset Migration Progress" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة تعيين تقدّم الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214147,6 +215461,12 @@
     },
     "Reset Migration Progress?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة تعيين تقدّم الترحيل؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214366,6 +215686,12 @@
     },
     "Reset Progress" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة تعيين التقدّم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -215822,6 +217148,12 @@
     },
     "Restore" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استعادة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -216379,6 +217711,12 @@
     },
     "Restore from Backup…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استعادة من نسخة احتياطية…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -217148,6 +218486,12 @@
     },
     "Restoring merges a backup into your existing data. Nothing is deleted." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاستعادة تدمج نسخة احتياطية في بياناتك الحالية. لا يُحذف شيء."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -217705,6 +219049,12 @@
     },
     "Resume" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استئناف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -218493,6 +219843,12 @@
     "Retry" : {
       "comment" : "Manual retry transcription",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة المحاولة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -221738,6 +223094,12 @@
     },
     "Running" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قيد التشغيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -222187,6 +223549,12 @@
     },
     "Save" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -222750,6 +224118,12 @@
     },
     "Save Provider" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ المزوّد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -223088,6 +224462,12 @@
     },
     "Save to Files…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ في «الملفات»…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -223532,6 +224912,12 @@
     },
     "Saved in Minis ▸ Backups. Use Save to Files to copy it to iCloud Drive, a connected server, or another cloud provider." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "محفوظة في Minis ▸ النسخ الاحتياطية. استخدم «حفظ في الملفات» لنسخها إلى iCloud Drive أو خادم متصل أو مزوّد سحابي آخر."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -224983,6 +226369,12 @@
     },
     "Select" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحديد"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -227446,6 +228838,12 @@
     "Servers" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخوادم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -227558,6 +228956,12 @@
     },
     "Session" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الجلسة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -228008,6 +229412,12 @@
     },
     "Session Forked" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم تفريع الجلسة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -228680,6 +230090,12 @@
     },
     "Sessions" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الجلسات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -229131,6 +230547,12 @@
     "Set a passphrase to encrypt this backup." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عيّن عبارة مرور لتشفير هذه النسخة الاحتياطية."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -229467,6 +230889,12 @@
     },
     "Set Manual Bearer Token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعيين رمز Bearer يدوياً"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -229692,6 +231120,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإعدادات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -230149,6 +231583,12 @@
     },
     "Share" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مشاركة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -230374,6 +231814,12 @@
     },
     "Share…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مشاركة…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -236305,6 +237751,12 @@
     },
     "Skills" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المهارات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -236641,6 +238093,12 @@
     },
     "Skip" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تخطّي"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -238669,6 +240127,12 @@
     },
     "Speech-to-text and text-to-speech vendors. The provider type and base URL are prefilled — just add your API key." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مزوّدو تحويل الكلام إلى نص والنص إلى كلام. نوع المزوّد وعنوان URL الأساسي معبّآن مسبقاً — أضف مفتاح API فقط."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -240012,6 +241476,12 @@
     },
     "Start Migration" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بدء الترحيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -240687,6 +242157,12 @@
     },
     "Starting…" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ البدء…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -241018,6 +242494,12 @@
     },
     "Status" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحالة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -241349,6 +242831,12 @@
     },
     "Stop" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243719,6 +245207,12 @@
     },
     "Sync Activity" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نشاط المزامنة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243831,6 +245325,12 @@
     },
     "Sync events are recorded as iCloud sync sends and receives data. Up to 1,000 entries are kept." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تُسجَّل أحداث المزامنة عند إرسال iCloud للبيانات واستقبالها. يُحتفظ بما يصل إلى 1,000 إدخال."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243943,6 +245443,12 @@
     },
     "Sync Now" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مزامنة الآن"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -244392,6 +245898,12 @@
     },
     "Synced Devices (Download)" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأجهزة المزامنة (تنزيل)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -244843,6 +246355,12 @@
     },
     "Syncing..." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جارٍ المزامنة…"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -244956,6 +246474,12 @@
     "System" : {
       "comment" : "Built-in Apple speech engine\nBuilt-in Apple speech engine provider name",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النظام"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -247413,6 +248937,12 @@
     },
     "Task" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المهمة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -248990,6 +250520,12 @@
     },
     "Text" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نص"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -249328,6 +250864,12 @@
     },
     "Text input is always enabled. Configure which additional input modalities this model supports." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإدخال النصي مفعّل دائماً. هيّئ أنماط الإدخال الإضافية التي يدعمها هذا النموذج."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -249440,6 +250982,12 @@
     },
     "Text input is always supported. Disable modalities the model doesn't actually support to prevent sending unsupported attachments." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإدخال النصي مدعوم دائماً. عطّل الأنماط التي لا يدعمها النموذج فعلياً لمنع إرسال مرفقات غير مدعومة."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -253154,6 +254702,12 @@
     },
     "The voice service endpoint URL." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عنوان URL لنقطة نهاية خدمة الصوت."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -253266,6 +254820,12 @@
     },
     "Theme" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السمة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -254506,6 +256066,12 @@
     },
     "Third-Party AI Providers" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مزوّدو الذكاء الاصطناعي من طرف ثالث"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -257319,6 +258885,12 @@
     "This passphrase encrypts the entire backup, including chats, files, and credentials. There is no way to recover a forgotten passphrase — the backup cannot be opened without it." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشفّر عبارة المرور هذه النسخة الاحتياطية كاملة، بما فيها المحادثات والملفات وبيانات الاعتماد. لا توجد طريقة لاستعادة عبارة مرور منسية — لا يمكن فتح النسخة بدونها."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -260016,6 +261588,12 @@
     },
     "This will remove the provider and all its model entries. API keys will be deleted from the Keychain." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سيؤدي هذا إلى إزالة المزوّد وكل إدخالات نماذجه. ستُحذف مفاتيح API من سلسلة المفاتيح."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261029,6 +262607,12 @@
     },
     "To improve sync experience and reduce iCloud storage, we've upgraded the sync engine. Historical data is being migrated automatically — this may consume some extra battery or cellular data. You can cancel migration any time below." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لتحسين تجربة المزامنة وتقليل مساحة iCloud، حدّثنا محرّك المزامنة. تُرحَّل البيانات السابقة تلقائياً — قد يستهلك ذلك بعض البطارية أو بيانات الهاتف. يمكنك إلغاء الترحيل في أي وقت أدناه."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261929,6 +263513,12 @@
     },
     "Token" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الرمز"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -264936,6 +266526,12 @@
     },
     "Type" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النوع"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265489,6 +267085,12 @@
     "Unknown" : {
       "comment" : "Location permission status",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير معروف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265714,6 +267316,12 @@
     },
     "Unlimited" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير محدود"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267398,6 +269006,12 @@
     },
     "Up to date" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "محدّث"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -268065,6 +269679,12 @@
     },
     "Upload (This Device)" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رفع (هذا الجهاز)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -268742,6 +270362,12 @@
     },
     "Usage" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاستخدام"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -268967,6 +270593,12 @@
     },
     "Use a static bearer token instead of the OAuth sign-in flow. Useful with custom proxy endpoints." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استخدم رمز Bearer ثابتاً بدلاً من تسجيل الدخول عبر OAuth. مفيد مع نقاط وكيل مخصّصة."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -271657,6 +273289,12 @@
     },
     "V1 zone deleted" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حُذفت منطقة V1"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -272559,6 +274197,12 @@
     },
     "Version" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإصدار"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -273003,6 +274647,12 @@
     },
     "Video input" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدخال فيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -273678,6 +275328,12 @@
     },
     "Voice Chat Providers" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مزوّدو المحادثة الصوتية"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -274575,6 +276231,12 @@
     },
     "Voice Service" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خدمة الصوت"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -275467,6 +277129,12 @@
     },
     "We Do Not Collect Your Data" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لا نجمع بياناتك"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -278161,6 +279829,12 @@
     "Without encryption the backup is not protected — anyone with the file can read its contents." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بدون تشفير، النسخة الاحتياطية غير محمية — يمكن لأي شخص يملك الملف قراءة محتواها."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -280295,6 +281969,12 @@
     },
     "You can add multiple instances of the same provider (e.g. work and personal accounts)." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكنك إضافة عدة نسخ من المزوّد نفسه (مثل حساب العمل والحساب الشخصي)."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -280971,6 +282651,12 @@
     },
     "Your Control" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحكّمك"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -281308,6 +282994,12 @@
     },
     "Your key is stored securely in the iOS Keychain and never leaves the device." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يُحفظ مفتاحك بأمان في سلسلة مفاتيح iOS ولا يغادر الجهاز أبداً."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
